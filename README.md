@@ -1,2 +1,17 @@
-# BlueKwet-Internship-Tableau
-Interactive Tableau dashboard for restaurant sales analytics, featuring KPI tracking, revenue trends, customer demographics, branch performance, sales channels, peak-hour insights, category analysis, and top-selling items. Designed to support data-driven decision-making and business growth.
+# Restaurant Sales & Customer Analysis Dashboard
+
+## Tools: Tableau
+
+## Overview:
+A business intelligence dashboard analyzing restaurant sales, customer behavior, order patterns, timely-sales and product performance.
+
+## Key Features:
+- Sales trend analysis
+- Customer segmentation
+- Average order value tracking
+- Product performance evaluation
+- Branch-wise revenue comparison
+- Interactive visualizations
+
+## Business Impact:
+Provides actionable insights to improve revenue generation and customer satisfaction.
